@@ -1,6 +1,6 @@
 #  Proyecto Calculadora de Figuras Geométricas (Practica2)
 
-Este proyecto es una calculadora de áreas para figuras geométricas (círculo, rectángulo y triángulo), desarrollada en Java usando programación orientada a objetos.
+Este proyecto es una calculadora de áreas para figuras geométricas (círculo, rectángulo y triángulo) desarrollada en Java usando programación orientada a objetos.
 
 ##  Objetivos
 
