@@ -41,6 +41,11 @@ Colecciones (ArrayList)
 Programación Orientada a Objetos
 
 
+## Autores 
 
+Jahir Rodriguez Barreto
+Edwin Cornejo Peralte
+Ricardo Rojas Castro
+Erick Navarro Blancas
 
 
